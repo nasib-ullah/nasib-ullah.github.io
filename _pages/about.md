@@ -24,7 +24,27 @@ Research
 	%}
 </table><br>
 
+---
 
+Teaching
+======
+<table style="border: none">  
+	{%  include modules.html
+		url="https://nasib-ullah.github.io/"
+		img_path="teach_upg.jpeg"
+		title="Master's in Machine Learning & Data Science (LJMU and Upgrad)"
+		author_list="Thesis Supervisor"
+    published_in="2019-2021"
+	%}
+	{%  include modules.html
+		url="https://nasib-ullah.github.io/"
+		img_path="cs355.png"
+		title="Machine Learning and Computer Vision"
+		author_list="Teaching Assistant"
+    published_in="2019-2021"
+	%}
+
+</table><br>
 
 
 
