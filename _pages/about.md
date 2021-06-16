@@ -68,7 +68,7 @@ Experience
 	{%  include experience.html
 		url="https://nasib-ullah.github.io/"
         author_list="Flytxt Mobile Solutions Pvt. Ltd."
-		img_path="exp_flytxt.jpg"
+		img_path="exp_flytxt.jpeg"
 		title="Deputy Data Science Manager"
     published_in="July 2018 - June 2019"
 	%}
