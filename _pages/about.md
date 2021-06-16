@@ -74,5 +74,25 @@ Experience
 	%}
 </table><br>
 
+---
 
+Education
+======
+<table style="border: none">  
+	{%  include education.html
+		url="https://nasib-ullah.github.io/"
+		img_path="edu_iist.png"
+		title="Master in Machine Learning and Computing"
+		author_list="Supervisors: Dr S. Sumitra"
+    published_in=" 2016 - 2018"
+	%}
+	{%  include education.html
+		url="https://nasib-ullah.github.io/"
+		img_path="edu_wbut.jpg"
+		title="Bachelor in Electronics and Communication Engineering"
+		author_list="Supervisor: Dr. B. N. Chatterji"
+    published_in="2009 - 2013"
+	%}
+
+</table>
 
