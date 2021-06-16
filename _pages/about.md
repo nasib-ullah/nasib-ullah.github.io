@@ -11,7 +11,7 @@ redirect_from:
 Project Linked Person <br>
 Electronics and Communication Sciences Unit <br>
 Indian Statistical Institute, Kolkata <br>
-Email: nasibullah104@gmail.com <br>
+Email: nasibullah104 AT gmail.com <br>
 
 ---
 
