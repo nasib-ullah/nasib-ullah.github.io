@@ -38,7 +38,7 @@ Teaching
 	%}
 	{%  include modules.html
 		url="https://nasib-ullah.github.io/"
-		img_path="cs355.png"
+		img_path="tech_ecsu.png"
 		title="Machine Learning and Computer Vision"
 		author_list="Teaching Assistant"
     published_in="2019-2021"
