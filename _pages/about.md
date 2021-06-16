@@ -46,6 +46,33 @@ Teaching
 
 </table><br>
 
+---
+
+Experience
+======
+<table style="border: none">  
+	{%  include experience.html
+		url="https://nasib-ullah.github.io/"
+        author_list="Electronics and Communication Unit, Indian Statistical Institute"
+		img_path="exp_ecsu.png"
+		title="Project Linked Person"
+    published_in="October 2019 - Present"
+	%}
+	{%  include experience.html
+		url="https://nasib-ullah.github.io/"
+        author_list="MSC in Machine Learning and Data Science (LJMU and Upgrad)"
+		img_path="exp_upgrad.jpeg"
+		title="Thesis Supervisor"
+    published_in="August 2019 - Present"
+	%}
+	{%  include experience.html
+		url="https://nasib-ullah.github.io/"
+        author_list="Flytxt Mobile Solutions Pvt. Ltd."
+		img_path="exp_flytxt.jpg"
+		title="Deputy Data Science Manager"
+    published_in="July 2018 - June 2019"
+	%}
+</table><br>
 
 
 
