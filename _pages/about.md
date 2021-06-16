@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Nasibullah"
+excerpt: "Project Linked Person"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,4 +10,3 @@ redirect_from:
 
 This is Nasibullah's home on the web
 
-+Lorem ipsum.
