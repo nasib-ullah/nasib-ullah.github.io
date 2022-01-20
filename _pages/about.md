@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Project linked person in the Electronics and Communication Science Unit at the Indian Statistical Institute, Kolkata. My Research area mainly focuses on applying Machine Learning, specially Deep Learning, to the intersection of vision and language tasks. I have worked on various applied NLP and vision tasks such as video and image captioning, action recognition, text summarization, machine translation and grounding language in vision tasks. My long term goal is to reduce the cognitive gap between human and model performance by introducing reasoning capabilities to models. 
+I'm a Project linked person in the Electronics and Communication Science Unit at the Indian Statistical Institute, Kolkata. I will be joining The Imaging, Vision, and Artificial Intelligence Laboratory (LIVIA) at École de Technologie Supérieure ÉTS, Montreal, Canada. Prior to this, I have worked as a Deputy Data Science Manager in Flytxt Mobile Solutions Pvt Ltd. Also, I am a Thesis Supervisor for Masters's in Data Science and Machine Learning in UpGrad. I have done my master's in Machine learning and computing from the Indian Institute of Space Science and Technology (IIST). My Research area mainly focuses on applying Machine Learning, especially Deep Learning, to the intersection of vision and language tasks. I have worked on various applied NLP and vision tasks such as video and image captioning, action recognition, text summarization, machine translation, and grounding language in vision tasks. My long-term goal is to reduce the cognitive gap between human and model performance by introducing reasoning capabilities to models.
 
 
 ---
