@@ -17,7 +17,7 @@ Research
 <table style="border: none">  
 	{%  include publications.html
         url="https://nasib-ullah.github.io/"
-		img_path="figure1.jpg"
+		img_path="thvc.png"
 		title="Thinking Hallucination for Video Captioning"
 		author_list="<u>Nasib Ullah</u>, Partha Pratim Mohanta"
 		published_in="(Under review)"
