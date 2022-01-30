@@ -18,8 +18,15 @@ Research
 	{%  include publications.html
         url="https://nasib-ullah.github.io/"
 		img_path="figure1.jpg"
+		title="Thinking Hallucination for Video Captioning"
+		author_list="<u>Nasib Ullah</u>, Partha Pratim Mohanta"
+		published_in="(Under review)"
+	%}
+	{%  include publications.html
+        url="https://nasib-ullah.github.io/"
+		img_path="figure1.jpg"
 		title="Boosting Video Captioning with Dynamic Loss Network"
-		author_list="<u>Nasibullah</u>, Partha Pratim Mohanta"
+		author_list="<u>Nasib Ullah</u>, Partha Pratim Mohanta"
 		published_in="(Under review)"
 	%}
 </table><br>
