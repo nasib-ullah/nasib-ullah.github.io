@@ -63,7 +63,7 @@ Experience
         author_list="Electronics and Communication Unit, Indian Statistical Institute"
 		img_path="exp_ecsu.png"
 		title="Project Linked Person"
-    published_in="October 2019 - Present"
+    published_in="October 2019 - January 2022"
 	%}
 	{%  include experience.html
 		url="https://nasib-ullah.github.io/"
