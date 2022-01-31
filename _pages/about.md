@@ -58,6 +58,15 @@ Teaching
 Experience
 ======
 <table style="border: none">  
+	
+		{%  include experience.html
+		url="https://nasib-ullah.github.io/"
+        author_list="MSC in Machine Learning and Data Science (LJMU and Upgrad)"
+		img_path="exp_upgrad.jpeg"
+		title="Thesis Supervisor"
+    published_in="August 2019 - Present"
+	%}
+	
 	{%  include experience.html
 		url="https://nasib-ullah.github.io/"
         author_list="Electronics and Communication Unit, Indian Statistical Institute"
@@ -65,13 +74,7 @@ Experience
 		title="Project Linked Person"
     published_in="October 2019 - January 2022"
 	%}
-	{%  include experience.html
-		url="https://nasib-ullah.github.io/"
-        author_list="MSC in Machine Learning and Data Science (LJMU and Upgrad)"
-		img_path="exp_upgrad.jpeg"
-		title="Thesis Supervisor"
-    published_in="August 2019 - Present"
-	%}
+
 	{%  include experience.html
 		url="https://nasib-ullah.github.io/"
         author_list="Flytxt Mobile Solutions Pvt. Ltd."
