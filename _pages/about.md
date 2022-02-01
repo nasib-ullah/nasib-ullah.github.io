@@ -109,7 +109,7 @@ Education
 	
 	{%  include education.html
 		url="https://www.iist.ac.in/"
-		img_path="edu_iist.png"
+		img_path="iist.png"
 		title="Master in Machine Learning and Computing"
 		author_list="Supervisor: Dr S. Sumitra"
     published_in=" 2016 - 2018"
