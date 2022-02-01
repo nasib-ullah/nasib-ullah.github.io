@@ -46,18 +46,18 @@ Teaching
 	%}
 	
 	{%  include modules.html
-		url="https://nasib-ullah.github.io/"
+		url="https://www.upgrad.com/"
 		img_path="teach_upg.jpeg"
 		title="Master's in Machine Learning & Data Science (LJMU and Upgrad)"
 		author_list="Thesis Supervisor"
-    published_in="2019-2021"
+    published_in="2019-Ongoing"
 	%}
 	{%  include modules.html
-		url="https://nasib-ullah.github.io/"
+		url="https://www.isical.ac.in/~ecsu/?q=node/24"
 		img_path="teach_ecsu.png"
 		title="Machine Learning and Computer Vision"
 		author_list="Teaching Assistant"
-    published_in="2019-2021"
+    published_in="2019-2022"
 	%}
 
 </table><br>
