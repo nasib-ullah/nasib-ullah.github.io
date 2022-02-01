@@ -54,7 +54,7 @@ Teaching
 	%}
 	{%  include modules.html
 		url="https://www.isical.ac.in/~ecsu/?q=node/24"
-		img_path="teach_ecsu.png"
+		img_path="mnist.jpeg"
 		title="Machine Learning and Computer Vision"
 		author_list="Teaching Assistant"
     published_in="2019-2022"
