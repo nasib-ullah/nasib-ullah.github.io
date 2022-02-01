@@ -38,7 +38,7 @@ Teaching
 <table style="border: none">  
 	
 	{%  include modules.html
-		url="https://nasib-ullah.github.io/"
+		url="https://sites.google.com/view/wsdl2022/home?authuser=0/"
 		img_path="wsdl.png"
 		title="Winter School on Deep Learning (WSDL2022)"
 		author_list="Instructor"
