@@ -98,15 +98,24 @@ Experience
 Education
 ======
 <table style="border: none">  
+	
 	{%  include education.html
-		url="https://nasib-ullah.github.io/"
+		url="https://en.etsmtl.ca/unites-de-recherche/livia/accueil?lang=en-CA"
+		img_path="ets.png"
+		title="Phd in Affective Computing"
+		author_list="Supervisors: Éric Granger and Marco Pedersoli"
+    published_in=" 2022 - Ongoing"
+	%}
+	
+	{%  include education.html
+		url="https://www.iist.ac.in/"
 		img_path="edu_iist.png"
 		title="Master in Machine Learning and Computing"
-		author_list="Supervisors: Dr S. Sumitra"
+		author_list="Supervisor: Dr S. Sumitra"
     published_in=" 2016 - 2018"
 	%}
 	{%  include education.html
-		url="https://nasib-ullah.github.io/"
+		url="https://www.bppimt.ac.in/"
 		img_path="edu_wbut.jpg"
 		title="Bachelor in Electronics and Communication Engineering"
 		author_list="Supervisor: Dr. B. N. Chatterji"
