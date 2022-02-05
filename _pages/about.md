@@ -15,15 +15,9 @@ I'm a Project linked person in the Electronics and Communication Sciences Unit a
 Research
 ======
 <table style="border: none">  
+
 	{%  include publications.html
-        url="https://nasib-ullah.github.io/"
-		img_path="thvc.png"
-		title="Thinking Hallucination for Video Captioning"
-		author_list="<u>Nasib Ullah</u>, Partha Pratim Mohanta"
-		published_in="(Submitted on NAACL2022)"
-	%}
-	{%  include publications.html
-        url="https://nasib-ullah.github.io/"
+        url="https://arxiv.org/pdf/2107.11707.pdf"
 		img_path="figure1.jpg"
 		title="Boosting Video Captioning with Dynamic Loss Network"
 		author_list="<u>Nasib Ullah</u>, Partha Pratim Mohanta"
