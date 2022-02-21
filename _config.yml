@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : nasib104
 facebook:
   username               :
   app_id                 :
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Nasibullah"
   avatar           : "nasib1.jpg"
-  bio              : "Project Linked Person at Indian Statistical Institute"
-  location         : "Kolkata, India"
+  bio              : "Doctoral student at the École de Technologie Supérieure ÉTS"
+  location         : "Montreal, Canada"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=8gI7sGgAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
