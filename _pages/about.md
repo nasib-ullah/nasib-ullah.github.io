@@ -97,7 +97,7 @@ Education
 		url="https://en.etsmtl.ca/unites-de-recherche/livia/accueil?lang=en-CA"
 		img_path="ets.png"
 		title="Phd in Affective Computing"
-		author_list="Supervisors: Éric Granger and Marco Pedersoli"
+		author_list=""
     published_in=" 2022 - Ongoing"
 	%}
 	
