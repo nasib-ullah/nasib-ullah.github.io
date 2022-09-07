@@ -15,13 +15,19 @@ I'm a doctoral student at The Imaging, Vision, and Artificial Intelligence Labor
 Research
 ======
 <table style="border: none">  
-
+	{%  include publications.html
+        url="https://arxiv.org/pdf/2203.14779.pdf"
+		img_path="cvprw2022.jpg"
+		title="AJoint Cross-Attention Model for Audio-Visual Fusion in Dimensional Emotion Recognition"
+		author_list="RGnana Praveen,Wheidima Carneiro de Melo,<u> Nasib Ullah</u>, Haseeb Aslam, Osama Zeeshan, Theo Denorme, Marco Pedersoli, Alessandro Koerich, Simon Bacon, Patrick Cardinal, and Eric Granger"
+		published_in="Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2022."
+	%}
 	{%  include publications.html
         url="https://arxiv.org/pdf/2107.11707.pdf"
 		img_path="figure1.jpg"
 		title="Boosting Video Captioning with Dynamic Loss Network"
 		author_list="<u>Nasib Ullah</u>, Partha Pratim Mohanta"
-		published_in="(Submitted on ICPR2022)"
+		published_in="(Submitted on ICVGIP2022)"
 	%}
 </table><br>
 
