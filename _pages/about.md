@@ -15,6 +15,14 @@ I'm a doctoral student at The Imaging, Vision, and Artificial Intelligence Labor
 Research
 ======
 <table style="border: none">  
+	
+	{%  include publications.html
+        url="https://arxiv.org/pdf/2107.11707.pdf"
+		img_path="thvc.png"
+		title="Thinking Hallucination for Video Captioning."
+		author_list="<u>Nasib Ullah</u>, Partha Pratim Mohanta"
+		published_in="(Accepted on ACCV2022)"
+	%}
 	{%  include publications.html
         url="https://arxiv.org/pdf/2203.14779.pdf"
 		img_path="cvprw2022.jpg"
