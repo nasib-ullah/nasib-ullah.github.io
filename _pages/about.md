@@ -35,7 +35,7 @@ Research
 		img_path="figure1.jpg"
 		title="Boosting Video Captioning with Dynamic Loss Network"
 		author_list="<u>Nasib Ullah</u>, Partha Pratim Mohanta"
-		published_in="(Submitted on ICVGIP2022)"
+		
 	%}
 </table><br>
 
