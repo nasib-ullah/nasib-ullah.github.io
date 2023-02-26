@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a doctoral researcher at the Computer Science department, Aalto University. Prior to this, I was a Project linked person in the Electronics and Communication Sciences Unit at the Indian Statistical Institute, and Deputy Data Science Manager in Flytxt Mobile Solutions Pvt Ltd. Also, I am a Thesis Supervisor for Masters's in Data Science and Machine Learning in UpGrad. I have done my master's in Machine learning and computing from the Indian Institute of Space Science and Technology (IIST). My Research area mainly focuses on applying Machine Learning, especially Deep Learning, to the intersection of vision and language tasks. I have worked on various applied NLP and vision tasks such as video and image captioning, action recognition, text summarization, machine translation, and grounding language in vision tasks. My long-term goal is to reduce the cognitive gap between human and model performance by introducing reasoning capabilities to models.
+I'm a doctoral researcher at the Computer Science department, Aalto University. I was affiliated as a doctoral researcher at the Ecole de Technology Superior ETS, Montreal from Jan-November, 2022 (Discontinued). Prior to this, I was a Project linked person in the Electronics and Communication Sciences Unit at the Indian Statistical Institute, and Deputy Data Science Manager in Flytxt Mobile Solutions Pvt Ltd. Also, I am a Thesis Supervisor for Masters's in Data Science and Machine Learning in UpGrad. I have done my master's in Machine learning and computing from the Indian Institute of Space Science and Technology (IIST). My Research area mainly focuses on algorithmic advancement of the Deep Extreme classification Tasks. I have worked at the intersection of vision and language tasks  such as video and image captioning, action recognition, text summarization, machine translation, and grounding language in vision tasks. My long-term goal is to reduce the cognitive gap between human and model performance by introducing reasoning capabilities to models.
 
 
 ---
@@ -17,7 +17,7 @@ Research
 <table style="border: none">  
 	
 	{%  include publications.html
-        url="https://arxiv.org/pdf/2107.11707.pdf"
+        url="https://openaccess.thecvf.com/content/ACCV2022/papers/Ullah_Thinking_Hallucination_for_Video_Captioning_ACCV_2022_paper.pdf"
 		img_path="thvc.png"
 		title="Thinking Hallucination for Video Captioning."
 		author_list="<u>Nasib Ullah</u>, Partha Pratim Mohanta"
@@ -108,11 +108,11 @@ Education
 <table style="border: none">  
 	
 	{%  include education.html
-		url="https://en.etsmtl.ca/unites-de-recherche/livia/accueil?lang=en-CA"
-		img_path="ets.png"
-		title="Phd in Affective Computing"
+		url="https://www.aalto.fi/en/department-of-computer-science"
+		img_path="aalto.png"
+		title="Phd in Extreme Classification"
 		author_list=""
-    published_in=" 2022 - Ongoing"
+    published_in=" 2023 - Ongoing"
 	%}
 	
 	{%  include education.html
