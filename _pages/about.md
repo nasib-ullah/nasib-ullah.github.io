@@ -9,9 +9,6 @@ redirect_from:
 ---
 I am a doctoral researcher at the Computer Science Department of Aalto University, specializing in machine learning models designed for data with large output spaces. My work builds on a rich background of research and professional experience, including a significant period focused on affective computing at the École de Technologie Supérieure (ETS) in Montreal. Previously, I contributed to projects at the Indian Statistical Institute and served as Deputy Data Science Manager at Flytxt Mobile Solutions. In addition to my research, I mentor Master's students in Data Science and Machine Learning at UpGrad, leveraging insights from my Master's in Machine Learning and Computing from the Indian Institute of Space Science and Technology (IIST). My research is dedicated to advancing algorithms in Deep Extreme Classification tasks, with a keen interest in blending vision and language through various projects. The long-term goal of my work is to enhance AI models with deeper reasoning capabilities, aiming for a future where machines can understand and interact with the world in a way that mirrors human cognition.
 
-
-
-
 ---
 
 Research
