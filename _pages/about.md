@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a doctoral researcher at the Computer Science department, Aalto University. I was affiliated as a doctoral researcher at the Ecole de Technology Superior ETS, Montreal from Jan-November, 2022 (Discontinued). Prior to this, I was a Project linked person in the Electronics and Communication Sciences Unit at the Indian Statistical Institute, and Deputy Data Science Manager in Flytxt Mobile Solutions Pvt Ltd. Also, I am a Thesis Supervisor for Masters's in Data Science and Machine Learning in UpGrad. I have done my master's in Machine learning and computing from the Indian Institute of Space Science and Technology (IIST). My Research area mainly focuses on algorithmic advancement of the Deep Extreme classification Tasks. I have worked at the intersection of vision and language tasks  such as video and image captioning, action recognition, text summarization, machine translation, and grounding language in vision tasks. My long-term goal is to reduce the cognitive gap between human and model performance by introducing reasoning capabilities to models.
+I am a doctoral researcher at the Computer Science Department of Aalto University, specializing in machine learning models designed for data with large output spaces. My work builds on a rich background of research and professional experience, including a significant period focused on affective computing at the École de Technologie Supérieure (ETS) in Montreal. Previously, I contributed to projects at the Indian Statistical Institute and served as Deputy Data Science Manager at Flytxt Mobile Solutions. In addition to my research, I mentor Master's students in Data Science and Machine Learning at UpGrad, leveraging insights from my Master's in Machine Learning and Computing from the Indian Institute of Space Science and Technology (IIST). My research is dedicated to advancing algorithms in Deep Extreme Classification tasks, with a keen interest in blending vision and language through various projects. The long-term goal of my work is to enhance AI models with deeper reasoning capabilities, aiming for a future where machines can understand and interact with the world in a way that mirrors human cognition.
+
+
 
 
 ---
@@ -21,7 +23,7 @@ Research
 		img_path="thvc.png"
 		title="Thinking Hallucination for Video Captioning."
 		author_list="<u>Nasib Ullah</u>, Partha Pratim Mohanta"
-		published_in="(Accepted on ACCV2022)"
+		published_in="(Proceedings of the Asian Conference on Computer Vision, 2022.)"
 	%}
 	{%  include publications.html
         url="https://arxiv.org/pdf/2203.14779.pdf"
