@@ -1,31 +1,37 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# Nasib Ullah — academic profile
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+A responsive, dependency-free personal website for GitHub Pages. All content is readable without JavaScript; JavaScript only enables publication filters.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+## Publish on GitHub Pages
 
-# Instructions
+1. Extract this archive locally. The `nasib-ullah.github.io` directory contains the complete replacement website.
+2. Back up your existing repository. Replace its website contents with the contents of that directory, including `.nojekyll`. Preserve the repository's `.git` directory and any custom `CNAME` or GitHub configuration that you use. Do not leave the old Jekyll template alongside this replacement.
+3. Commit and push to your GitHub Pages branch.
+4. In the repository's **Settings → Pages**, select **Deploy from a branch**, your branch, and **/(root)**. If you previously used a custom Jekyll Actions workflow, disable or replace that workflow so it does not rebuild the old template.
+5. Visit https://nasib-ullah.github.io/ after deployment completes.
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+No Ruby, Jekyll, Node, package installation, or build step is required. You can also open `index.html` locally, or run `python3 -m http.server 8000` in the site directory.
 
-See more info at https://academicpages.github.io/
+## Edit
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+- Biography, publications, experience, education, and service: `index.html`.
+- Fonts, colors, spacing, and mobile layout: `assets/style.css`.
+- Publication filters: `assets/main.js`. Each publication has a `data-topic` attribute.
+- Profile image: `assets/portrait.jpg` (preserved from the original site).
+- Downloadable résumé: `files/Nasib-Ullah-CV.pdf` (the supplied PDF, unchanged).
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+## Content notes
 
-# Changelog -- bugfixes and enhancements
+The supplied résumé is the primary source. Historical employment dates and degree completion dates follow it where the old website differs. The PhD is shown as in progress, with expected completion in 2027. The homepage displays professional email and city; the unchanged downloadable CV also contains the contact details originally included in it.
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+HSEARCH-R1 is listed as EMNLP 2026 as stated in the résumé; no unverified paper link is added. DynaSpec and Boosting Video Captioning remain labeled preprints. No private project results or unpublished performance claims were added.
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+The supplied résumé had mismatched embedded links near HASTE and ELMO. Their website entries use the official proceedings and code repositories:
+- https://proceedings.mlr.press/v306/ullah26b.html
+- https://proceedings.mlr.press/v267/zhang25bv.html
+- https://github.com/xmc-aalto/haste
+- https://github.com/xmc-aalto/elmo
+
+Original template source is available in the previous version of the uploaded ZIP. This replacement intentionally removes demo publications, template pages, unused dependencies, and stale biography text.
+
+Profile revisions: Aalto and Qualcomm supervisors are included as provided by Nasib. Calibration is described as a study within extreme classification, rather than a separate research direction. The website education section shows PhD and MTech only; the supplied PDF remains unchanged. Qualcomm supervisor spellings were checked against https://www.qualcomm.com/research/artificial-intelligence/papers-with-code/paper-7 .
