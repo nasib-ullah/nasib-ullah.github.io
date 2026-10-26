@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nasib-ullah.github.io/sitemap.xml
